@@ -2,10 +2,11 @@
   "name": "codepedia-types",
   "version": "1.0.1",
   "description": "The types to be shared between codepedia and codepedia-api.",
-  "main": "./dist/index.ts",
-  "types": "./dist/index.d.ts",
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
   "files": [
-    "dist"
+    "src",
+    "tsconfig.json"
   ],
   "scripts": {
     "build": "tsc"

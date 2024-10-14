@@ -1,4 +1,4 @@
-import { ElementType } from "@/enums/elementType";
+import { ElementType } from "@/enums";
 
 export interface IElement {
   id: string;
