@@ -1,0 +1,19 @@
+{
+  "name": "codepedia-types",
+  "version": "1.0.0",
+  "description": "The types to be shared between codepedia and codepedia-api.",
+  "main": "./dist/index.ts",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": ["codepedia", "types"],
+  "author": "muanlartins",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^5.6.3"
+  }
+}
