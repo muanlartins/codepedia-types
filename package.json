@@ -4,7 +4,8 @@
   "description": "The types to be shared between codepedia and codepedia-api.",
   "files": [
     "enums",
-    "interfaces"
+    "interfaces",
+    "tsconfig.json"
   ],
   "scripts": {
     "build": "tsc"
