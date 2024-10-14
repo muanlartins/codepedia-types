@@ -1,6 +1,6 @@
 {
   "name": "codepedia-types",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "The types to be shared between codepedia and codepedia-api.",
   "files": [
     "enums",
