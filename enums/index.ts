@@ -1,4 +1,4 @@
 export enum ElementType {
-  snippet = 'snippet',
-  solution = 'solution'
+  snippet = 'Snippet',
+  solution = 'Solution'
 }
