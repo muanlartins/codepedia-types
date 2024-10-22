@@ -4,6 +4,10 @@ The types to be shared between codepedia and codepedia-api.
 
 `npm run build`
 
+## Dev
+
+`./pack.sh x.y.z`
+
 ## Deploy
 
 Make sure you are `npm login` and have committed the changes
